@@ -3,6 +3,7 @@
 ## 使用方法
 
 1. windows安装微信并登录
+1. 关注**青春上海**公众号
 1. 截取微信左上角头像替换image/head.png
 1. `git clone https://github.com/jqiuyin/fk_learning.git`
 1. `cd fk_learning`
